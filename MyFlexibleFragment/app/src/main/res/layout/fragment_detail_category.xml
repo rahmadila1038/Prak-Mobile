@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="19dp"
+    android:orientation="vertical"
+    android:background="#88008FEE"
+    tools:context=".DetailCategoryFragment">
+
+
+    <TextView
+        android:id="@+id/tv_category_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="nama kategori"
+        android:textSize="20sp"
+        android:layout_marginBottom="@dimen/activity_horizontal_margin"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_category_desc"
+        android:text="deskripsi kategori"
+        android:textSize="16sp"
+        android:layout_marginBottom="@dimen/activity_horizontal_margin"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_profile"
+        android:text="ke halaman activity"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_show_dialog"
+        android:text="tampilkan sebuah dialog"/>
+
+</LinearLayout>
