@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyIntentApp</string>
+    <string name="pindah_activity_dengan_data">Pindah Activity Dengan Data</string>
+    <string name="dial_a_number">Dial A Number</string>
+    <string name="pindah_activity_dengan_objek">Pindah Activity Dengan Objek</string>
+    <string name="pindah_activity_untuk_hasil">Pindah Activity untuk Hasil</string>
+    <string name="hasil">Hasil</string>
+    <string name="haiii_kamu_berhasil_pindah_activity">Haiii!!! kamu berhasil pindah activity</string>
+    <string name="pilih">pilih</string>
+    <string name="_200">200</string>
+    <string name="_150">150</string>
+    <string name="_100">100</string>
+    <string name="_50">50</string>
+    <string name="pilih_angka_yang_kamu_suka">pilih angka yang kamu suka</string>
+    <string name="data_diterima">Data Diterima</string>
+    <string name="objek_diterima">Objek diterima !!!</string>
+    <string name="pindah_activity">Pindah Activity</string>
+</resources>
