@@ -6,7 +6,13 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="363f87d6-5d23-4a65-9eda-a8ec016a324f" name="Default Changelist" comment="" />
+    <list default="true" id="363f87d6-5d23-4a65-9eda-a8ec016a324f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyIntentApp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyIntentApp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyIntentApp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyIntentApp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyIntentApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyIntentApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +37,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ihtKpDxJ6mWfaFctplbb7Fk4CZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -39,7 +49,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyIntentApp" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunManager">
@@ -124,13 +135,17 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="891" y="228" key="AndroidCreateXmlResourceDialog/0.0.1536.824@0.0.1536.824" timestamp="1602376785841" />
+    <state x="277" y="183" key="FileChooserDialogImpl" timestamp="1602669304170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="183" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602669304170" />
     <state x="688" y="123" width="737" height="584" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1602379954014">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="688" y="123" width="737" height="584" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.824@0.0.1536.824" timestamp="1602379954014" />
-    <state x="139" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1602381259184">
+    <state x="139" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1602668839647">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="139" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1602381259184" />
+    <state x="139" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1602668839647" />
   </component>
 </project>
