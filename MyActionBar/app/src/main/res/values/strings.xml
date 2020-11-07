@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyActionBar</string>
+    <string name="menu_1">menu_1</string>
+    <string name="menu_2">menu_2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_activity">this_activity</string>
+    <string name="this_fragment">this_fragment</string>
+    <string name="search">search</string>
+</resources>
